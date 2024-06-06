@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, Soy Jennifer Rios</h1>
 <h3 align="center">"Sumérgete en mi mundo creativo y tecnológico, donde cada código es una puerta hacia nuevas experiencias digitales."</h3>
 
-<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" alt="">
+<img src="https://github.com/Rios06/Rios06/blob/main/Banner%20de%20Linkedin%20Moderno%20para%20Arquitecto%20Azul%20y%20Blanco%20(2).png?raw=true" alt="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rios06&label=Profile%20views&color=0e75b6&style=flat" alt="rios06" /> </p>
